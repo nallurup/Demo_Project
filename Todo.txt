@@ -1,3 +1,9 @@
 Watch selenium videos
 prepare a project for yourself 
 Cook and clean
+git add
+git commit
+git edit
+git push 
+git commit -m messages
+git push 
